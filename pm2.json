@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "ztMarket",
+    "script": "production.js",
+    "cwd": "/Users/johnny/node/thinkjs-demo/ztMarket",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
